@@ -1,0 +1,14 @@
+C:\Users\natal\Desktop\.NET\Delegacje\bin\Debug\net8.0\Delegacje.exe
+C:\Users\natal\Desktop\.NET\Delegacje\bin\Debug\net8.0\Delegacje.deps.json
+C:\Users\natal\Desktop\.NET\Delegacje\bin\Debug\net8.0\Delegacje.runtimeconfig.json
+C:\Users\natal\Desktop\.NET\Delegacje\bin\Debug\net8.0\Delegacje.dll
+C:\Users\natal\Desktop\.NET\Delegacje\bin\Debug\net8.0\Delegacje.pdb
+C:\Users\natal\Desktop\.NET\Delegacje\obj\Debug\net8.0\Delegacje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\.NET\Delegacje\obj\Debug\net8.0\Delegacje.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\.NET\Delegacje\obj\Debug\net8.0\Delegacje.AssemblyInfo.cs
+C:\Users\natal\Desktop\.NET\Delegacje\obj\Debug\net8.0\Delegacje.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\.NET\Delegacje\obj\Debug\net8.0\Delegacje.dll
+C:\Users\natal\Desktop\.NET\Delegacje\obj\Debug\net8.0\refint\Delegacje.dll
+C:\Users\natal\Desktop\.NET\Delegacje\obj\Debug\net8.0\Delegacje.pdb
+C:\Users\natal\Desktop\.NET\Delegacje\obj\Debug\net8.0\Delegacje.genruntimeconfig.cache
+C:\Users\natal\Desktop\.NET\Delegacje\obj\Debug\net8.0\ref\Delegacje.dll

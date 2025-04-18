@@ -1,0 +1,14 @@
+C:\Users\natal\Desktop\.NET\3_Zadanie_struktury_typy\Struktury\obj\Debug\net8.0\Struktury.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natal\Desktop\.NET\3_Zadanie_struktury_typy\Struktury\obj\Debug\net8.0\Struktury.AssemblyInfoInputs.cache
+C:\Users\natal\Desktop\.NET\3_Zadanie_struktury_typy\Struktury\obj\Debug\net8.0\Struktury.AssemblyInfo.cs
+C:\Users\natal\Desktop\.NET\3_Zadanie_struktury_typy\Struktury\obj\Debug\net8.0\Struktury.csproj.CoreCompileInputs.cache
+C:\Users\natal\Desktop\.NET\3_Zadanie_struktury_typy\Struktury\bin\Debug\net8.0\Struktury.exe
+C:\Users\natal\Desktop\.NET\3_Zadanie_struktury_typy\Struktury\bin\Debug\net8.0\Struktury.deps.json
+C:\Users\natal\Desktop\.NET\3_Zadanie_struktury_typy\Struktury\bin\Debug\net8.0\Struktury.runtimeconfig.json
+C:\Users\natal\Desktop\.NET\3_Zadanie_struktury_typy\Struktury\bin\Debug\net8.0\Struktury.dll
+C:\Users\natal\Desktop\.NET\3_Zadanie_struktury_typy\Struktury\bin\Debug\net8.0\Struktury.pdb
+C:\Users\natal\Desktop\.NET\3_Zadanie_struktury_typy\Struktury\obj\Debug\net8.0\Struktury.dll
+C:\Users\natal\Desktop\.NET\3_Zadanie_struktury_typy\Struktury\obj\Debug\net8.0\refint\Struktury.dll
+C:\Users\natal\Desktop\.NET\3_Zadanie_struktury_typy\Struktury\obj\Debug\net8.0\Struktury.pdb
+C:\Users\natal\Desktop\.NET\3_Zadanie_struktury_typy\Struktury\obj\Debug\net8.0\Struktury.genruntimeconfig.cache
+C:\Users\natal\Desktop\.NET\3_Zadanie_struktury_typy\Struktury\obj\Debug\net8.0\ref\Struktury.dll
