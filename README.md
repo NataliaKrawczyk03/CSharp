@@ -1,4 +1,4 @@
-# 💻 C# Programming Exercises
+# C# Programming Exercises
 
 👋 Welcome to my personal collection of C# code examples and exercises!  
 This repository contains hands-on practice with core C# concepts, created as part of my learning journey.
@@ -22,11 +22,11 @@ This repository contains hands-on practice with core C# concepts, created as par
 
 ## 🧠 What You'll Find Here
 
-✅ Object-Oriented Programming (OOP) principles in action  
-✅ Use of abstraction, interfaces, inheritance  
-✅ Practical delegate/event patterns  
-✅ Reusable code with generics  
-✅ Structs vs classes — when and how to use them
+- Object-Oriented Programming (OOP) principles in action  
+- Use of abstraction, interfaces, inheritance  
+- Practical delegate/event patterns  
+- Reusable code with generics  
+- Structs vs classes — when and how to use them
 
 ---
 
